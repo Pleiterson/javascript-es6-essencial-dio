@@ -1,13 +1,13 @@
 <!-- Badges session -->
 <p align="center">  
   <!-- languages -->
-  <img src="https://img.shields.io/github/languages/count/pleiterson/restaurant-finder-dio?style=social" alt="Linguagens utilizadas">
+  <img src="https://img.shields.io/github/languages/count/pleiterson/javascript-es6-essencial-dio?style=social" alt="Linguagens utilizadas">
   <!-- repo size -->
-  <img src="https://img.shields.io/github/repo-size/Pleiterson/restaurant-finder-dio?style=social" alt="Tamanho do repositório">
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/javascript-es6-essencial-dio?style=social" alt="Tamanho do repositório">
   <!-- last commit -->
-  <img src="https://img.shields.io/github/last-commit/Pleiterson/restaurant-finder-dio?style=social" alt="Último commit">
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/javascript-es6-essencial-dio?style=social" alt="Último commit">
   <!-- licence MIT -->
-  <img src="https://img.shields.io/github/license/Pleiterson/restaurant-finder-dio?style=social" alt="Licença MIT">
+  <img src="https://img.shields.io/github/license/Pleiterson/javascript-es6-essencial-dio?style=social" alt="Licença MIT">
 </p>
 
 <!--Banner session-->
