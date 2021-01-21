@@ -20,7 +20,7 @@
 
 <img src="./assets/badge.png" title="Badge" width="70" height="70">
 
-Curso de Programação para internet com JavaScript da [Digital Innovation One](https://digitalinnovation.one/).
+Curso de JavaScript ES6 essencial da [Digital Innovation One](https://digitalinnovation.one/).
 
 Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.
 
