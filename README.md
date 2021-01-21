@@ -16,11 +16,11 @@
 </p>
 
 <!--About session-->
-<h1 align="center">JavaScript ES6 essencial<br>Digital Innovation One</h1>
+<h1 align="center">JavaScript ES6 Essencial<br>Digital Innovation One</h1>
 
 <img src="./assets/badge.png" title="Badge" width="70" height="70">
 
-Curso de JavaScript ES6 essencial da [Digital Innovation One](https://digitalinnovation.one/).
+Curso de JavaScript ES6 Essencial da [Digital Innovation One](https://digitalinnovation.one/).
 
 Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.
 
